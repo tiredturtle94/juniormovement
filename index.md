@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Junior Movement
+title: Yoga in Pittsburgh
 ---
 
 <img class="home-avatar" src="/assets/img/avatar-jg.JPEG" alt="Junior, yoga teacher in Pittsburgh">

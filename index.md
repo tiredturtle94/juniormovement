@@ -3,7 +3,7 @@ layout: page
 title: Junior Movement
 ---
 
-<img class="home-avatar" src="/assets/img/avatar-jg.jpeg" alt="Junior, yoga teacher in Pittsburgh">
+<img class="home-avatar" src="/assets/img/avatar-jg.JPEG" alt="Junior, yoga teacher in Pittsburgh">
 
 *Yoga and mindful movement in the Greater Pittsburgh area*
 

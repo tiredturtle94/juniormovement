@@ -1,0 +1,1 @@
+turtle.svg: Lucide icon, ISC License, https://lucide.dev/license

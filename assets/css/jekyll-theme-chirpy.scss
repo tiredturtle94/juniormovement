@@ -127,3 +127,16 @@ footer,
 footer a {
   color: #4A5A41 !important;
 }
+
+i.nav-turtle {
+  display: inline-block;
+  width: 1.4em;
+  height: 1.4em;
+  background-color: currentColor;
+  -webkit-mask: url('/assets/img/turtle.svg') no-repeat center / contain;
+  mask: url('/assets/img/turtle.svg') no-repeat center / contain;
+}
+
+i.nav-turtle::before {
+  content: none !important;
+}

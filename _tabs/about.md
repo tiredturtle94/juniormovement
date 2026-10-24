@@ -8,7 +8,7 @@ Stress brought me to yoga, and what followed was a transformation in mind and bo
 
 I trained at the Om Lounge Studios in Pittsburgh (RYT-200). 
 
-The name Junior Movement comes from how I like to move: small, grounded, and steady, like a turtle.
+The name Junior Movement comes from how I like to move: small, grounded, and steady, like a turtle. 🐢
 ## My philosophy
 
 Your body works for you. Even something as simple as holding a plank, the act of holding yourself up, is amazing. One of my favorite sayings is *"Getting older is a privilege. Getting strong is a choice."* I hope to experience both through movement.

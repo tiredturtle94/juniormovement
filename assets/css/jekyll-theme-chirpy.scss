@@ -61,3 +61,34 @@ body,
 #main-wrapper li {
   color: #3F4A38;
 }
+
+#topbar-wrapper {
+  background-color: #E3E8D6 !important;
+}
+
+#topbar #breadcrumb,
+#topbar .topbar-title {
+  font-family: 'Lora', serif;
+  color: #26311F !important;
+}
+
+.anchor,
+h2 > a.anchor,
+h3 > a.anchor {
+  display: none !important;
+}
+
+.home-avatar {
+  display: block;
+  width: 140px;
+  height: 140px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin: 0 auto 1.25rem;
+}
+
+@media (min-width: 850px) {
+  .home-avatar {
+    display: none;
+  }
+}

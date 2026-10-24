@@ -3,6 +3,8 @@ layout: page
 title: Junior Movement
 ---
 
+<img class="home-avatar" src="/assets/img/avatar-jg.jpeg" alt="Junior, yoga teacher in Pittsburgh">
+
 *Yoga and mindful movement in the Greater Pittsburgh area*
 
 Small, grounded, and steady. Sessions that help you move better, stress less, and feel at home in your body.

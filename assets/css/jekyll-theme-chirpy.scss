@@ -106,3 +106,24 @@ h3 > a.anchor {
   font-weight: 500 !important;
   color: #26311F !important;
 }
+
+body:has(.home-avatar) #topbar-title {
+  font-size: 0 !important;
+}
+
+body:has(.home-avatar) #topbar-title::before {
+  content: "Junior Movement";
+  font-size: 1.1rem;
+}
+
+footer,
+footer .container,
+#footer-wrapper,
+.footer-wrapper {
+  background-color: transparent !important;
+}
+
+footer,
+footer a {
+  color: #4A5A41 !important;
+}

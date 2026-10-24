@@ -3,7 +3,13 @@ layout: page
 title: Yoga in Pittsburgh
 ---
 
+<style>
+  .dynamic-title { display: none; }
+</style>
+
 <img class="home-avatar" src="/assets/img/avatar-jg.JPEG" alt="Junior, yoga teacher in Pittsburgh">
+
+<h1 style="margin-top: 0; margin-bottom: 1.5rem;">Seal in your practice.</h1>
 
 *Yoga and mindful movement in the Greater Pittsburgh area*
 
@@ -13,17 +19,17 @@ Small, grounded, and steady. Sessions that help you move better, stress less, an
 
 ## Work with me
 
-**For individuals and small groups.** Whether you're new to yoga or returning after a break, I'll meet you where you are. Private sessions are tailored to your body, goals, and pace. Small group classes keep things welcoming and personal.
+**For individuals and small groups:** Whether you're new to yoga or returning after a break, I'll meet you where you are and help you where you want to go. Private sessions are tailored to your body, goals, and pace. Small group classes keep things welcoming and personal.
 
-**For teams, schools, and organizations.** A reset in the middle of a busy day. I bring accessible yoga and mindfulness sessions to your space, with no experience or special equipment needed.
+**For teams, schools, and organizations:** Professional development can be stress-inducing. I bring accessible yoga and mindfulness sessions to your space, with no experience or special equipment needed.
 
 ## Offerings
 
-- **Private 1:1 sessions:** up to 75 minutes · inquire for pricing
-- **Small group classes:** up to 75 minutes, up to 8 people · inquire for pricing
-- **Workplace and school sessions:** 30, 45, or 60 minutes · custom quote
+- **Private 1:1 sessions:** up to 75 minutes · *Starting at $80*
+- **Small group classes:** up to 75 minutes, up to 8 people · *inquire for pricing*
+- **Workplace and school sessions:** 30, 45, or 60 minutes · *custom quote*
 
-I come to you, anywhere in the Greater Pittsburgh region. Not sure which fits? Just ask.
+I come to you, anywhere in the Greater Pittsburgh region. Not sure which fits? [Just ask](mailto:hello@juniormovement.com?subject=Question%20about%20sessions).
 
 ## Let's move
 

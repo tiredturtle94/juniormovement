@@ -140,3 +140,22 @@ i.nav-turtle {
 i.nav-turtle::before {
   content: none !important;
 }
+
+.content a.btn-book {
+  display: inline-block;
+  padding: 0.6rem 1.4rem;
+  margin: 0 0 0.5rem 0;
+  border-radius: 8px;
+  font-weight: 700;
+  background-color: #4F6B4A;
+  color: #F6F3EA !important;
+  text-decoration: none !important;
+  border-bottom: none !important;
+}
+
+#main-wrapper a.btn-book,
+#main-wrapper .content a.btn-book,
+#main-wrapper .content a.btn-book:hover,
+#main-wrapper .content a.btn-book:visited {
+  color: #F6F3EA !important;
+}

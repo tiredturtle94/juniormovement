@@ -16,7 +16,7 @@ timezone: America/New_York
 
 title: Junior Movement # the main title
 
-tagline: Yoga and mindful movement in Greater Pittsburgh # it will display as the subtitle
+tagline: "Small, grounded, and steady"
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -35,7 +35,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Junior Movement
-  email: hello@juniormovement.com
+  email:
   fediverse_handle: # fill in your fediverse handle. E.g. "@username@domain.com"
   links:
     # The first element serves as the copyright owner's link
